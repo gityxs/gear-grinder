@@ -439,7 +439,7 @@ var cnItems = {
     "Void Grip": "虚空之握",
     "Soul Reaver": "灵魂掠夺者",
     "Creating environment...": "创建环境...",
-    "": "",
+    "Three in a row!": "连赢三局！",
     "": "",
     "": "",
     "": "",
