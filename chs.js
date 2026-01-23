@@ -438,7 +438,7 @@ var cnItems = {
     "Abyssal Plate": "深渊板甲",
     "Void Grip": "虚空之握",
     "Soul Reaver": "灵魂掠夺者",
-    "": "",
+    "Creating environment...": "创建环境...",
     "": "",
     "": "",
     "": "",
