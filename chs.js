@@ -440,7 +440,7 @@ var cnItems = {
     "Soul Reaver": "灵魂掠夺者",
     "Creating environment...": "创建环境...",
     "Three in a row!": "连赢三局！",
-    "": "",
+    "You missed a day! Your streak will reset to 1.": "你漏了一天没完成任务！你的连签纪录将重置为 1 次。",
     "": "",
     "": "",
     "": "",
