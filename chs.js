@@ -577,7 +577,7 @@ var cnItems = {
     "helmet": "头盔",
     "gloves": "手套",
     "Gloves": "手套",
-    "ARM": "胳膊",
+    "ARM": "护甲",
     "armor": "盔甲",
     "boots": "靴子",
     "Leg": "传说",
